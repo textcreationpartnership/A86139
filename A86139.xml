@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A ha! Christmas, This book of Christmas is a sound and good perswasion for gentlemen, and all wealthy men, to keepe a good Christmas. Here is proved the cause of free-will offerings, and to be liberall to the poore, here is sound and good arguments for it, taken and proved out of scripture, as hath been written a long time. / By, T.H.</title>
+            <author>T. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86139</idno>
+            <idno type="STC">Wing H128</idno>
+            <idno type="STC">Thomason E421_5</idno>
+            <idno type="STC">ESTC R204668</idno>
+            <idno type="EEBO-CITATION">99864134</idno>
+            <idno type="PROQUEST">99864134</idno>
+            <idno type="VID">116355</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86139)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116355)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E421[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A ha! Christmas, This book of Christmas is a sound and good perswasion for gentlemen, and all wealthy men, to keepe a good Christmas. Here is proved the cause of free-will offerings, and to be liberall to the poore, here is sound and good arguments for it, taken and proved out of scripture, as hath been written a long time. / By, T.H.</title>
+                  <author>T. H.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, for R.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Dec: 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christmas --  England --  Early works to 1800.</term>
+               <term>Charity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116355:1" rendition="simple:additions"/>
+            <p>A Ha! CHRISTMAS, This Book of CHRISTMAS is a ſound and good perſwaſion for Gentlemen, and all wealthy men, to keepe a good <hi>Chriſtmas.</hi>
+            </p>
+            <p>Here is proved the cauſe of Free-will Offerings, and to be liberall to the poore, here is ſound and good Arguments for it, taken and proved out of Scripture, as any hath been written a long time.</p>
+            <p>By, T. H.</p>
+            <p>LONDON, Printed, for <hi>R. L.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116355:2"/>
+            <p>THis Feſtivall and good-time of Chriſtmas, or of our Saviours birth, when God became man, born of a pure Virgin, when the brightnes of the glory became co<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ered with mans nature, when the word was made fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh, and dwelt amongſt us, when Chriſt Jeſus came into the world to reſtore mankinde to an everlaſting glorious e<g ref="char:EOLhyphen"/>ſtate. Again, this very good time of Chriſts birth ſome men do not greatly deſire to have this day ſanctified with thankſgiving, nor yet their poore kinred and poor neighbours feaſted with Chriſtian mirth and love, but I hope th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe men will change their judgement, when it ſhall pleaſe God to increaſe faith and knowledge, and it may pleaſe God this book may give or ſhew a little light to their knowledg, for by Gods help we wil bring both Scripture and reaſon, and that godly and wiſe Chriſtians of very ancient time have kept it and main<g ref="char:EOLhyphen"/>tained it, and therefore I hope that good and reaſonable men will incline to that which is good &amp; right, and firſt of al you will <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> both before Chriſts comming, and ſince both for thankſgiving and for feaſt<g ref="char:EOLhyphen"/>ing on anoth<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r witneſſe<g ref="char:punc">▪</g> the free will offering and joy, of the Jews for their deliverance from the plot of <hi>Haman</hi> by Q. <hi>Eſter</hi> and <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </hi> under God and we our ſelves doe offer fr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e will offerings of thankſgiving to God Almighty, and we make merry and feaſt one another for the deliverance from the Gun powder Treaſon and other dangers of late, And ſee in the 12<hi rend="sup">th</hi>. Chap. of <hi>Exo<g ref="char:EOLhyphen"/>dus</hi> the 14 <hi>ver.</hi> how God comanded the people of <hi>Iſrael</hi> to keepe the very type of Chriſts ſhadowed out in the paſchall lamb, theſe are the words, <hi>And this day ſhall be unto you for a memoriall, and you ſhall keepe it a feaſt to the
+<pb facs="tcp:116355:2"/> Lord throughout your generations by an ordinance for ever,</hi> Here is an Ordinance of God Almighty for his people to keepe the type and ſhadow of Chriſt, and <hi>ver.</hi> 16. <hi>to have a holy convocation on the firſt day, and on the laſt day,</hi> no work muſt be done but to dreſſe good chear, and then ſhall not we offer free will offerings of thankſgiving &amp; praiſe, when the ſubſtance of the true paſcal lamb Chriſt Ieſus was borne, and came to deliver all the beleeving world from hell and damnation, and by him<g ref="char:punc">▪</g> we have bleſſings both ſpirituall &amp; temporall, <hi>Pſal.</hi> 110. 3. which is a propheſie of Chriſt, <hi>In the day of thy power ſhall the people offer thee free will offerings, and with a holy worſhip<g ref="char:EOLhyphen"/>ing, the dew of thy birth is the womb of the morning,</hi> And <hi>Levit.</hi> 33. we read of a great many feaſts, and the firſt &amp; laſt day are to have a holy Aſſembly, and the people were commanded to leave ſome of the fruit of the land and of the corn, for the poor, and <hi>Levit.</hi> 35. the people of <hi>Iſrael</hi> had a yeare of lubile wherein they were to reſt and to help the poore the people of God, and had their Feaſts and reſts and joy before Chriſt coming into the world, both by command and by their free will offe<g ref="char:EOLhyphen"/>ring, then let us Chriſtians give God Almighty free<g ref="char:EOLhyphen"/>will offerings of thankſgiving and praiſe on Chriſtmas day. For the birth of our Saviour and let us remember Chriſts poore members upon earth, both poore kindred and neighbours; and give occaſion for them to rejoyce with money or feaſting. For in S. <hi>Luke</hi> 2. 13 there was a multitude of heavenly Angels prayſing God, and ſay<g ref="char:EOLhyphen"/>ing, <hi>Glory to God in the higheſt, and on earth peace, towards men good will<g ref="char:punc">▪</g>
+               </hi> then let not us that have this peace of conſcience and good will of God our heavenly Father be backward, but let us give thanks and make good chear, but ſome men will ſay; how can you tell this is
+<pb facs="tcp:116355:3"/> the day, I anſwer, that it hath been kept many hundred yeares at this time of the year; and the learned do hold it was at this time of the year; if that there be ten dayes difference between other countries beyond Seas &amp; ours: that is nothing to us. <hi>For a thouſand years with God al<g ref="char:EOLhyphen"/>mighty is but as on day,</hi> hee holds time and times in his power: therefore let us keep our owne countries good times, and ſhew as much charity on to another as the peo<g ref="char:EOLunhyphen"/>ple of <hi>Iſrael</hi> did before Chriſt, for wee have the pro<g ref="char:EOLhyphen"/>miſes fulfilled which they waited and looked for by faith: Did not thy fathers eat, drink and proſper, when they executed judgment and righteouſnes, and helped the poore? ſaith the Prophet <hi>Jeremiah,</hi> to that ungodly and cruell K. <hi>Jehoiakim.</hi> ſo as at a ſuch time as Chriſt<g ref="char:EOLhyphen"/>mas, thoſe whom God Almighty hath given a good ſhare of the wealth of this world, may wear the beſt; eat &amp; drink the beſt with moderation, ſo that they remember Chriſt's poor members with mercy and charity, and this year requireth more charity then ordinary, becauſe of the dearneſs of proviſion of corn and victuals. What if gen<g ref="char:EOLhyphen"/>tlemen of great wealth ſhould ſpend a hundred pound in charitable works this year more then they have coming in, they may help out a dear yeare, and God Almighty hath promiſed to be good unto ſuch men, and to bleſſe them with many bleſſings: and let every man according to his eſtate do ſome good for his Saviours ſake. And then we may ſing, that Chriſt our King was born as this day of a pure Virgin, of a pure Virgin, and now ſeeing wee are a ſpeaking of Chriſtmaſs, let us not be too ſad but a little merry and cheerfull. Conſider what great joy there was through all the Kingdoms of the great King <hi>Ahaſhueroh, among all the people of Iſrael, which were ſcattered in all the lands of that great heathen King, Eſter</hi>
+               <pb facs="tcp:116355:3"/> 9. 20. then Queen <hi>Eſter</hi> the daughter of <hi>Abihail</hi> and <hi>Mordecay</hi> the Jew wrote with all authority to confirme the ſecond letters of Purim, and all this people of the <hi>Jews</hi> obeyed Queen <hi>Eſter</hi> and <hi>Mordecai,</hi> and keep theſe days of deliverance from the wicked plot of <hi>Haman,</hi> &amp; they feaſted with joy, and ſent portions on to another, and gifts to the poor: this deliverance from this wicked deſigne of <hi>Haman</hi> was a great earthly deliverance, but <hi>Haman</hi> could not have hurt their ſoules, but they might have been ſaved, but our enemy Satan had and would have hurt our ſouls and bodies, and our ſouls had been accurſed and periſhed, had not Chriſt came in<g ref="char:EOLhyphen"/>to the world to redeem them, their deliverance was but to that Nation, but our deliverance by Chriſt Ieſus com<g ref="char:EOLhyphen"/>ing into the world, and taking mans nature and condition upon him without ſin, the eternall Son of God by com<g ref="char:EOLhyphen"/>ing into the world, and ſuffering and making ſatisfacti<g ref="char:EOLhyphen"/>on for mankind, hath delivered all the believing world, which lay hold on him by a lively faith: then wee Chri<g ref="char:EOLhyphen"/>ſtians have great cauſe of joy and thankſgiving for the birth of our Saviour, the bleſſed ſpirits the Angels were never ſeen in ſuch multitudes ſince that time or before on the earth, prayſing God in that manner, and ſinging as they were that day, the people of <hi>Iſrael</hi> which were God Almighties true Church, were comanded to keep the Feaſt of the Paſchall Lambe for ever, which was but a type or ſhadow of Chriſt; eſpecially untill Chriſt the Lambe of God came, which took away the ſins of the believing world, <hi>Exodus</hi> 12. 26. and it ſhall come to paſſe when your children ſhall ſay unto you; what mean you by this ſervice, ye ſhall ſay it is the ſacrifice of the Lords Paſſover, who paſſed over the houſes of the chil<g ref="char:EOLhyphen"/>dren of Iſrael in Egypt, when he ſmote the Egyptians, &amp;
+<pb facs="tcp:116355:4"/> delivered our houſes, and the people bowed the head and worſhipped.</p>
+            <p>So when our children ſhall aske us, or thinke upon Chriſtmas, we may ſay unto them, Chriſt Ieſus came into the world to redeeme mankinde, <hi>God ſo loved the world that he gave his only ſon to ſave mankind, therefore let us be merry in the Lord, and give thanks to God. Al<g ref="char:EOLhyphen"/>mighty, and be liber all to the poore on that day, and ſo leave a good example to our children and ſucceſſors.</hi> For the Lord is very well pleaſed with free will offerings of praiſe and thankſgiving, and King <hi>David</hi> ſaith, <hi>What ſhall I pay the Lord for all his benefits to me? the wholſome cup of ſaving health I thankfully will take, &amp; on the Lords name will I call when I my prayers make,</hi> And <hi>Pſ.</hi> 118. 21. <hi>I will praiſe thee, for thou haſt heard me, and art became my ſalvation, the ſtone which the builders refuſed is become the head of the corner, this is the Lord<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doing, and it is marvelou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in our eyes, this is the day which the Lord hath made, we will rejoyce and be glad in it,</hi> and <hi>Luke <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. And it came to paſſe in thoſe dayes, that there went a Decree from</hi> Caeſar Auguſtus <hi>that all the world ſhould be taxed,</hi> and this taxing was firſt made when <hi>Cyrenius</hi> was governor of <hi>Syria,</hi> and all went to be taxed, every one in his own City, <hi>and Joſeph alſo went up from Galilee out of the City of Nazareth into Judea, into the City of David, which is called Bethlem, becauſe he was of the houſe and linage of David to be taxed with Mary his eſpouſed wif<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> being gr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at with childe,</hi> and ſo it was that while they were there, the dayes were accompliſhed that ſhee ſhould be delivered and ſhe brought forth her firſt born Son and wrapt him in ſwadling clothes, and laid him in a manger, becauſe there was no room for them in the Inne, and there was
+<pb facs="tcp:116355:4"/> in the ſame Country Shepherds abiding in the field, keeping watch over their flocks by night, And loe, <hi>The Angel of the Lord came upon them, and the glory of the Lord ſhon round about them, and they were ſore afraid, and the Angel ſaid unto them, fear not, for behold I bring you good tydings of great joy, which ſhall be to all the people: for unto you is born this day in the City of David, a Saviour which is Chriſt the Lord, and this ſhall be a ſigne unto you, ye ſhall finde the babe wrapt in ſwadling clothes, and laid in a manger, and ſodainly there was with the Angel a multi<g ref="char:EOLhyphen"/>tude of the heavenly Hoaſt, praiſing God and ſaying, Glory to God in the higheſt, on earth peace, and good will towards men, and it came to paſſe as the Angels were gon away from them into heaven, the ſhepherds ſaid one to another let us now goe to Bethlem and ſee this thing which is come to paſſe which the Lord hath made known unto us, and they came with haſte and found Mary and Joſeph, and the babe lying in the manger, and when they had ſeen it, they ſpread a<g ref="char:EOLhyphen"/>broad the ſaying which was told them concerning this child and all that heard it, wondered at thoſe things that were told them of the ſhepherds, but Mary kept all theſe things, and pondered them in her heart, and the ſhepherds retur<g ref="char:EOLhyphen"/>ned praiſing and glorifying God for all the things which they had heard and ſeen,</hi> as it was told them, here was great joy among the Jews, but in <hi>Mat.</hi> 2. we read of greater men among the Gentiles, and of greater joy, and of greater pains and travell to finde out the birth of Chriſt, and of greater coſt of gold and rich commodi<g ref="char:EOLhyphen"/>ties, which may be great joy unto us which were Gen<g ref="char:EOLhyphen"/>tiles and Heathens before Chriſt came into the world, as well as they, now when Jeſus was borne at <hi>Bethlem</hi>
+               <pb facs="tcp:116355:5"/> of <hi>Judea,</hi> in the dayes of <hi>Herod</hi> the King, <hi>Behold there came wiſe men from the Eaſt to Jeruſalem, ſaying, Where is he that is borne King of the Jews? for we have ſeen his ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar in the Eaſt, and are come to worſhip him,</hi> and ver. 10. <hi>When they ſaw the ſtar they rejoyced with an exceeding great joy and when they were come into the houſe, they ſaw the young childe with</hi> Mary <hi>his mother, and fell down and worſhiped him, and when they had opened their treaſury, they preſented unto him gifts, Gold, Frankinſence and Myrrh.</hi>
+            </p>
+            <p>Thus we ſee what love, and joy, and pains, and tra<g ref="char:EOLhyphen"/>vell, and great coſt, theſe wiſe men thought well be<g ref="char:EOLhyphen"/>ſtowed upon their Saviour, but now our Saviour is gone into heaven, and is there glorified, and now he is very well pleaſed when men relieve the wants of his faithfull people for his ſake; well then, I ſay, this is the greateſt deliverance at the firſt hand by God Almighty that ever mankind received, and therefore we ſhould return the greateſt free will offering of praiſe and thankſgiving for it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Gilbert Mabbott.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
